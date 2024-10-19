@@ -21,9 +21,8 @@ Real-time Application Updates: Never miss a potential candidate! WorkHive inform
 
 Smart Job Filters: By providing diverse filters, job seekers can narrow down their search and discover the best opportunities for them..
 Effortless Application Process: The job application process is now simpler. Job seekers can fill in their name, phone number, email, and a short message to the recruiter. With a simple CV upload, their application will be directly sent to the recruiter.
-🔧 How to run it
-Clone the project to your local environment:
-git clone https://github.com/sk-phan/Fullstack-job-board-site.git
+how to run it?
+
 
 Run the front end:
 Go to the folder cd frontend
